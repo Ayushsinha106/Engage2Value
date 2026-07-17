@@ -3,5 +3,6 @@ This is my Kaggle competition for my college, where we need to predict purchase 
 I have performed EDA and created some charts to analyse the data
 
 
-##Description of the Project
+## Description of the Project
+
 The goal of this competition is to predict a customer’s purchase value based on their multi-session behavior across digital touchpoints. The dataset captures anonymized user interactions such as browser types, traffic sources, device details, and geographical indicators. By modeling these patterns, participants will estimate the purchase potential of each user, helping optimize marketing and engagement strategies.
